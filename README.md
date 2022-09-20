@@ -15,3 +15,6 @@
 
 # basic counter
 ![basic counter](./readme_assets/basic-counter.gif)
+
+# Click the button
+![click the button](./readme_assets/click-the-button.gif)

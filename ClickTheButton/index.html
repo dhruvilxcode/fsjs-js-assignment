@@ -15,5 +15,12 @@
   </body>
   <script>
     // write code here
+    let count = 0;
+    const counterElement = document.querySelector("#counter");
+
+    function increase(){
+      count += 1;
+      counterElement.innerHTML = count;
+    }
   </script>
 </html>
