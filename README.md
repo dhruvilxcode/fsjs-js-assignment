@@ -18,3 +18,6 @@
 
 # Click the button
 ![click the button](./readme_assets/click-the-button.gif)
+
+# see what you type
+![see what you type](./readme_assets/see-what-you-type.gif)
