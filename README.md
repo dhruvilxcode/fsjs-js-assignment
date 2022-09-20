@@ -12,3 +12,6 @@
 # 4-Password-Generator
 ![4-password-generator](./readme_assets/4-password-generator.gif)
 
+
+# basic counter
+![basic counter](./readme_assets/basic-counter.gif)

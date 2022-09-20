@@ -21,5 +21,18 @@
 
   <script>
     //write code here
+    let number = 0;
+    const numberElement = document.getElementById("number");
+    numberElement.innerText = number;
+
+    function decrease(){
+      number -= 1;
+      numberElement.innerText = number;
+    }
+
+    function increase(){
+      number += 1;
+      numberElement.innerText = number;
+    }
   </script>
 </html>
