@@ -15,6 +15,8 @@
 # 5-Rock-Paper-Scissors
 ![rock paper](./readme_assets/rock-paper-scissors.gif)
 
+# 6-JokesGenerator-API
+[View Source](./06JokesGenerator%20-%20API/)
 
 # basic counter
 ![basic counter](./readme_assets/basic-counter.gif)
